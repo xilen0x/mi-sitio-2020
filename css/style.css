@@ -12,7 +12,7 @@ h1 {
 h2 {
 	line-height: 20px;
 	margin: 0;
-	color: #25BAD0;
+	color: rgb(255, 255, 255);
 	margin-bottom: 30px;
 	font-size: 40px;
 	font-weight: 400;
@@ -86,7 +86,7 @@ ul, ol {
 	letter-spacing: 1px;
 }
 #menu a.navbar-brand i.fa {
-	color: #25BAD0;
+	color: rgb(240, 216, 4);
 }
 #menu.navbar-default .navbar-nav > li > a {
 	text-transform: uppercase;
@@ -95,14 +95,14 @@ ul, ol {
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
-	color: #25BAD0;
+	color: rgb(240, 216, 4);
 }
 .on {
 	background-color: #03252b !important;
 	padding: 0 !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #25BAD0 !important;
+	color: rgb(240, 216, 4) !important;
 	background-color: transparent;
 }
 .navbar-toggle {
@@ -116,9 +116,9 @@ ul, ol {
 	background-color: #FFF;
 }
 .btn-default {
-	color: #25BAD0;
+	color: rgb(240, 216, 4);
 	background-color: transparent;
-	border: 2px solid #25BAD0;
+	border: 2px solid rgb(240, 216, 4);
 	padding: 12px 20px;
 	margin: 0;
 	font-size: 15px;
@@ -127,8 +127,8 @@ ul, ol {
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
 	color: #053740;
-	background-color: #25BAD0;
-	border-color: #25BAD0;
+	background-color: rgb(236, 202, 48);
+	border-color: rgb(253, 253, 253);
 }
 .btn:active, .btn.active {
 	background-image: none;
@@ -170,8 +170,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#053740', end
 	letter-spacing: 2px;
 	color: rgba(255,255,255,0.9);
 }
+/*Titulo principal: Market-of-sites*/
 .intro .brand {
-	color: #25BAD0;
+	color: rgb(240, 216, 4);
 	font-weight: 700;
 }
 .intro .intro-text p {
@@ -191,7 +192,7 @@ header .intro-text {
 	background: #053740;
 }
 #services h4 {
-	color: #25BAD0;
+	color: rgb(240, 216, 4);
 	text-transform: uppercase;
 }
 #services i.fa {
@@ -202,8 +203,8 @@ header .intro-text {
 	width: 100px;
 	height: 100px;
 	padding: 33px 0;
-	border: 1px solid #25BAD0;
-	background: #25BAD0;
+	border: 1px solid rgb(6, 45, 51);
+	background: rgb(240, 216, 4);
 	border-radius: 50%;
 }
 /* About Section */
@@ -211,10 +212,10 @@ header .intro-text {
 	padding: 100px 0;
 	color: rgba(255,255,255,0.9);
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#20a6bb+0,25bad0+50 */
-	background: rgb(32,166,187); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(32,166,187,1) 0%, rgba(37,186,208,1) 50%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(32,166,187,1) 0%, rgba(37,186,208,1) 50%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(32,166,187,1) 0%, rgba(37,186,208,1) 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: rgb(236, 202, 48); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(236, 202, 48) 0%, rgba(236, 202, 48) 50%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(236, 202, 48) 0%, rgba(236, 202, 48) 50%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(236, 202, 48) 0%, rgba(236, 202, 48) 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20a6bb', endColorstr='#25bad0', GradientType=0 ); /* IE6-9 */
 }
 #about h2 {
@@ -249,16 +250,16 @@ ol.type li {
 }
 ol.type li a {
 	background: transparent;
-	border: 2px solid #25BAD0;
-	color: #25BAD0;
+	border: 2px solid rgb(240, 216, 4);
+	color: rgb(240, 216, 4);
 	padding: 10px 20px;
 }
 ol.type li a.active {
-	background: #25BAD0;
+	background: rgb(240, 216, 4);
 	color: #053740;
 }
 ol.type li a:hover {
-	background: #25BAD0;
+	background: rgb(236, 202, 48);
 	color: #053740;
 }
 .isotope-item {
@@ -363,10 +364,10 @@ ol.type li a:hover {
 	padding: 100px 0;
 	color: rgba(255,255,255,0.9);
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#20a6bb+0,25bad0+50 */
-	background: rgb(32,166,187); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(32,166,187,1) 0%, rgba(37,186,208,1) 50%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(32,166,187,1) 0%, rgba(37,186,208,1) 50%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(32,166,187,1) 0%, rgba(37,186,208,1) 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: rgb(236, 202, 48); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(236, 202, 48) 0%, rgba(236, 202, 48) 50%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(236, 202, 48) 0%, rgba(236, 202, 48) 50%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(236, 202, 48) 0%, rgba(236, 202, 48) 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#20a6bb', endColorstr='#25bad0', GradientType=0 ); /* IE6-9 */
 }
 #team h2 {
